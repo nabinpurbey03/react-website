@@ -1,0 +1,16 @@
+.info_container {
+    margin-top: 150px;
+    border-bottom: 5px solid #213547;
+}
+
+p {
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.title:hover{
+    filter: drop-shadow(0 0 2em green);
+}
