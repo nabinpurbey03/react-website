@@ -16,6 +16,7 @@ const ContactUs = () => {
                     <p><span>Location: </span>Tinkune, Kathmandu 44600</p>
                 </div>
             </div>
+            <hr/>
             <footer>&copy; Nabin Purbey &nbsp;&nbsp;&nbsp;2023 &nbsp;&nbsp;&nbsp; BIM 3<sup>rd</sup> Semester</footer>
         </>
     )
